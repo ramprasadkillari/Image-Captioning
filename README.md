@@ -2,7 +2,7 @@
   Deep Learning model to generate a caption for a given image.
   See [report.pdf](https://github.com/ramprasadkillari/Image-Captioning/blob/master/report.pdf)
 ## Datasets:
-  [Flickr 8k](https://forms.illinois.edu/sec/1713398)
+  [Flickr 8k](https://forms.illinois.edu/sec/1713398) <br />
   Flickr 30k
 
 ## Usage:
@@ -16,7 +16,7 @@
   See Report for more details.
 
 ## References:
-  [machinelearningmastery](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)
+  [machinelearningmastery](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/) <br />
   [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
 
 
