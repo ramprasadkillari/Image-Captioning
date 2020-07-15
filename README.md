@@ -11,6 +11,9 @@
   cd Caption/
   python3 caption.py dog.jpg
   ```
+## Output:
+  ![alt text](https://github.com/ramprasadkillari/Image-Captioning/blob/master/Caption/dog.jpg?raw=true)
+  
 
 ## Note:  
   First time you use this model, Keras will download the model weights from the Internet, which are about 500 Megabytes. This may take a few minutes.
